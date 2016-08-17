@@ -1,0 +1,6 @@
+mqtt 测试脚本
+
+1、并发的发起连接 
+    ./mqtt-bench -h 查看使用方法
+2、并发推送消息到bugle provider 
+    ./push -h 查看使用方法
